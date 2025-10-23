@@ -1,0 +1,5 @@
+{
+  "name": "QueryGem",
+  "description": "An application to interact with a local SQLite database file. It features a schema explorer, a manual SQL query editor, and a natural language interface powered by Gemini to generate and execute SQL queries.",
+  "requestFramePermissions": []
+}
